@@ -1,5 +1,5 @@
 # aurora-minimal-production
-Minimal production repo for `Staking => StakingPool` smart contract flow issue
+Minimal production repo for `Staking => StakingPool` smart contract flow issue (hitting NEAR block limit)
 
 `Staking` contract:
 - Please check the `stake / stakeMultiple` methods, we always `lock` on when running these methods (we don't run `lock` on it's own)
