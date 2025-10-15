@@ -6,6 +6,12 @@
 deps/
 states/
 
+node_modules/
+
+.env
+
+cache/
+
 # Debug info
 *.dbg.json
 *.tsbuildinfo
